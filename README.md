@@ -9,3 +9,5 @@ principalmente referente a Java. Nesse projeto estão disponíveis vários exemplos
 - Remover Dados
 - Atualizar Dados
 - Utilizar VIEWS e aplicar operações de busca, inserção, update ou delete através delas
+
+Foi utilizada a API Ektorp para conexão e manipulação dos dados. Disponível em: https://github.com/helun/Ektorp
