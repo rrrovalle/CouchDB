@@ -1,13 +1,12 @@
-Fiz uso do CouchDB recentemente e percebi a falta de documentação em português que auxilie na aplicação,
-principalmente referente a Java. Nesse projeto estão disponíveis vários exemplos, entre eles:
+Fiz uso do CouchDB recentemente e percebi a falta de documentaÃ§Ã£o em portuguÃªs que auxilie na aplicaÃ§Ã£o,
+principalmente referente a Java. Neste projeto estÃ£o disponÃ­veis vÃ¡rios exemplos, que incluem:
 
-- Conexão com o Banco
-- Estrututuração da class modelo
-- Conexão com um banco já existente
-- Criação de um Banco 
+- EstrututuraÃ§Ã£o da classe modelo
+- ConexÃ£o com um banco jÃ¡ existente
+- CriaÃ§Ã£o de um Banco 
 - Inserir Dados
 - Remover Dados
 - Atualizar Dados
-- Utilizar VIEWS e aplicar operações de busca, inserção, update ou delete através delas
+- Utilizar VIEWS e aplicar operaÃ§Ãµes DML
 
-Foi utilizada a API Ektorp para conexão e manipulação dos dados. Disponível em: https://github.com/helun/Ektorp
+Ta API Ektorp para conexÃ£o e manipulaÃ§Ã£o dos dados. DisponÃ­vel em: https://github.com/helun/Ektorp
