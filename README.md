@@ -1,5 +1,4 @@
-Fiz uso do CouchDB recentemente e percebi a falta de documentação em português que auxilie na aplicação,
-principalmente referente a Java. Neste projeto estão disponíveis vários exemplos, que incluem:
+Fiz uso do CouchDB recentemente e percebi a falta de documentação em português que auxilie principalmente na conexão com Java. Neste projeto estão disponíveis vários exemplos, que incluem:
 
 - Estrututuração da classe modelo
 - Conexão com um banco já existente
