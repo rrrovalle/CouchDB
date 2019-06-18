@@ -13,7 +13,7 @@ import org.ektorp.impl.StdCouchDbInstance;
 
 /**
  *
- * @author Leonardo Steinke
+ * @author Rodrigo Valle
  */
 public class CouchDb {
 
