@@ -9,7 +9,7 @@ import org.ektorp.support.CouchDbDocument;
 
 /**
  *
- * @author 11457936909
+ * @author Rodrigo Valle
  */
 
 //única coisa necessária é extends CouchDbDocument
