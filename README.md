@@ -8,4 +8,4 @@ Fiz uso do CouchDB recentemente e percebi a falta de documentação em portuguê
 - Atualizar Dados
 - Utilizar VIEWS e aplicar operações DML
 
-Ta API Ektorp para conexão e manipulação dos dados. Disponível em: https://github.com/helun/Ektorp
+É utilizada a API Ektorp para conexão e manipulação dos dados. Disponível em: https://github.com/helun/Ektorp
